@@ -5,4 +5,7 @@ Changelog
 	Added tags
 	Added Waterfall config
 	Added zip with low-res files
+	Added config for Tweakscale
+	Changed bulkheadprofile to size3 from size2
+	Changed size of attach node to 3
 	
