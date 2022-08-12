@@ -1,6 +1,9 @@
 Changelog
 
-1.3.0.0 (unreleased)
+1.3.0.1
+	Added FOR to tweakscale patch
+
+1.3.0.0
 	Replaced ModuleEngines with ModuleEnginesFX
 	Added tags
 	Added Waterfall config
