@@ -1,0 +1,8 @@
+Changelog
+
+0.0.0.0 (unreleased)
+	Replaced ModuleEngines with ModuleEnginesFX
+	Added tags
+	Added Waterfall config
+	Added zip with low-res files
+	

@@ -1,0 +1,24 @@
+{
+  "NAME": "RocketdyneF1",
+  "URL": "http://ksp.spacetux.net/avc/RocketdyneF1",
+  "DOWNLOAD": "https://github.com/linuxgurugamer/RocketdyneF1/releases",
+  "GITHUB": {
+    "USERNAME": "linuxgurugamer",
+    "REPOSITORY": "RocketdyneF1",
+    "ALLOW_PRE_RELEASE": false
+  },
+  "VERSION": {
+    "MAJOR": 0,
+    "MINOR": 0,
+    "PATCH": 0,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 9,
+    "PATCH": 0
+  }
+}
+
+
+
