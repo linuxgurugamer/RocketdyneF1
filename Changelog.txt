@@ -1,5 +1,13 @@
 Changelog
 
+1.3.0.2 
+	updated max thrust to match info from Wikapedia
+	updated atmo curve to match info from Wikapedia
+	updated cost and entry cost to better match stock engines
+	Updated category to better fit stock
+	Created non-tweakscale configs
+	Created CommunityTechTree configs
+
 1.3.0.1
 	Added FOR to tweakscale patch
 
